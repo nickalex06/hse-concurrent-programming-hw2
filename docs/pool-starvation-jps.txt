@@ -1,0 +1,6 @@
+19472 worker.org.gradle.process.internal.worker.GradleWorkerMain
+8352 org.gradle.launcher.daemon.bootstrap.GradleDaemon
+13956 org.gradle.launcher.daemon.bootstrap.GradleDaemon
+15764 com.intellij.idea.Main
+23108 org.gradle.wrapper.GradleWrapperMain
+23412 jdk.jcmd/sun.tools.jps.Jps
